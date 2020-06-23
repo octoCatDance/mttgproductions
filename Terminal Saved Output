@@ -1,0 +1,53 @@
+Last login: Wed Jun  3 23:29:00 on console
+tikiman@Teaks-MacBook-Pro ~ % cd Desktop 
+tikiman@Teaks-MacBook-Pro Desktop % ls
+Animations
+Bird
+C Book
+CS50
+Downloads
+Drawings
+Eloquent JS
+FCC
+Fam
+Google Chrome
+Jail:Hospital
+Jokes
+MYLOVES
+Only Fans
+SSI
+Screen Shot 2020-06-05 at 9.27.03 PM.png
+Screenshots
+ShIt StInKs
+Students
+Teak
+The Odin Project
+Treehouse
+Tuts
+VS Code
+Visual Studio Code.app
+Wes Bos
+Work goals
+downloa
+fB sToRyS
+fb vids
+ig
+mission
+ph vids
+videos
+tikiman@Teaks-MacBook-Pro Desktop % cd Fam
+tikiman@Teaks-MacBook-Pro Fam % ls
+Dads photos			STEEN-LEASE (1) copy.pages
+STEEN-LEASE (1) copy.p.pages
+tikiman@Teaks-MacBook-Pro Fam % mkdir ChrisPages
+tikiman@Teaks-MacBook-Pro Fam % cd ChrisPages 
+tikiman@Teaks-MacBook-Pro ChrisPages % touch index.html
+tikiman@Teaks-MacBook-Pro ChrisPages % ls
+index.html
+tikiman@Teaks-MacBook-Pro ChrisPages % mkdir scss
+tikiman@Teaks-MacBook-Pro ChrisPages % ls
+index.html	scss
+tikiman@Teaks-MacBook-Pro ChrisPages % cd scss
+tikiman@Teaks-MacBook-Pro scss % touch style.scss
+tikiman@Teaks-MacBook-Pro scss % 
+tikiman@Teaks-MacBook-Pro scss % 
